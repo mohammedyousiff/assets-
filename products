@@ -1,0 +1,19 @@
+{
+  "works": [
+    {
+      "title": "لۆگۆی کۆمپانیای شکار",
+      "img": "https://raw.githubusercontent.com/HamaST/Repo/main/assets/shkar.png"
+    },
+    {
+      "title": "پۆستەری سۆشیاڵ میدیا",
+      "img": "https://raw.githubusercontent.com/HamaST/Repo/main/assets/poster.png"
+    }
+  ],
+  "store": [
+    {
+      "title": "پاکێجی لۆگۆی ئامادە",
+      "price": "20,000 IQD",
+      "img": "https://raw.githubusercontent.com/HamaST/Repo/main/assets/store1.png"
+    }
+  ]
+}
