@@ -11,12 +11,15 @@
 
 
 
-  "store": [
-    {
-      "title": "ناوی فایل",
-      "price": "20,000 IQD",
-      "img": "https://github.com/mohammedyousiff/assets-/blob/main/2_hk.jpg?raw=true",
-      "description": "لێرەدا باسێکی زۆر وردی فایلەکە دەکەیت، بۆ نموونە: فایلی فۆتۆشۆپ بە شەبەکەی ڕێک، فۆنتەکان لەگەڵە و هتد."
-    }
-  ]
+ "store": [
+  {
+    "id": "poster-01",
+    "title": "پۆستەری مۆدێرن",
+    "price": "10,000 IQD",
+    "img": "...",
+    "description": "ئەم پۆستەرە بە فۆرماتی PSD یە..."
+  }
+]
+
+
 }
