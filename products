@@ -1,19 +1,22 @@
 {
   "works": [
-    {
-      "title": "لۆگۆی کۆمپانیای شکار",
-      "img": "https://cdn.dribbble.com/userupload/42764370/file/original-35daeea1eda808953e55fd2ab52d2cd0.jpg?crop=265x116-2425x1736&format=webp&resize=400x300&vertical=center"
-    },
-    {
-      "title": "پۆستەری سۆشیاڵ میدیا",
-      "img": "https://github.com/mohammedyousiff/assets-/blob/main/2_hk.jpg?raw=true"
-    }
+
+    { 
+"title": "پۆستی سۆشیاڵ میدیا", 
+"img": "https://github.com/mohammedyousiff/assets-/blob/main/2_hk.jpg?raw=true"
+  }
+
   ],
+
+
+
+
   "store": [
     {
-      "title": "پاکێجی لۆگۆی ئامادە",
+      "title": "ناوی فایل",
       "price": "20,000 IQD",
-      "img": "https://raw.githubusercontent.com/HamaST/Repo/main/assets/store1.png"
+      "img": "https://github.com/mohammedyousiff/assets-/blob/main/2_hk.jpg?raw=true",
+      "description": "لێرەدا باسێکی زۆر وردی فایلەکە دەکەیت، بۆ نموونە: فایلی فۆتۆشۆپ بە شەبەکەی ڕێک، فۆنتەکان لەگەڵە و هتد."
     }
   ]
 }
